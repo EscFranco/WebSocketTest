@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "gusto": "Agua",
+    "precio": 220,
+    "img": "https://http2.mlstatic.com/D_Q_NP_777853-MLA44632277984_012021-R.webp"
+  },
+  {
+    "id": 2,
+    "gusto": "Coca Cola",
+    "precio": 150,
+    "img": "https://http2.mlstatic.com/D_Q_NP_884493-MLA44280555845_122020-R.webp"
+  },
+  {
+    "id": 3,
+    "gusto": "Fanta",
+    "precio": 400,
+    "img": "https://http2.mlstatic.com/D_Q_NP_831139-MLA44824214566_022021-R.webp"
+  },
+  {
+    "gusto": "Sprite",
+    "precio": 250,
+    "id": 4,
+    "img": "https://http2.mlstatic.com/D_Q_NP_942940-MLA48522072085_122021-R.webp"
+  },
+  {
+    "gusto": "Agua Tonica",
+    "precio": 300,
+    "id": 5,
+    "img": "https://http2.mlstatic.com/D_Q_NP_728194-MLA44402916285_122020-R.webp"
+  },
+  {
+    "gusto": "Cerveza",
+    "precio": "421",
+    "img": "https://http2.mlstatic.com/D_Q_NP_758993-MLA31598173803_072019-R.webp",
+    "id": 6
+  }
+]
